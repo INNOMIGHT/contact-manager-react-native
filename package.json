@@ -9,10 +9,22 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@databases/expo": "^5.0.0",
+    "@react-navigation/drawer": "^6.6.3",
+    "@react-navigation/native": "^6.1.7",
     "expo": "~48.0.18",
+    "expo-image-picker": "~14.1.1",
+    "expo-sqlite": "~11.1.1",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-image-picker": "^5.6.0",
+    "react-native-paper": "^5.9.0",
+    "react-native-reanimated": "~2.14.4",
+    "react-native-sqlite-storage": "^6.0.1",
+    "react-native-swipe-gestures": "^1.0.5",
+    "react-native-swipe-list-view": "^3.2.9"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
